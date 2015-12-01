@@ -1,0 +1,80 @@
+******************************************************************
+Case 1:
+******************************************************************
+Enter 0 to exit
+Enter birth year
+1902
+Enter death year
+1902
+Enter birth year
+0
+Enter death year
+0
+Birth year OR Death year is invalid !! Can't add any more objects
+Year with max people alive is : 0
+
+******************************************************************
+Case 2:
+******************************************************************
+Enter 0 to exit
+Enter birth year
+1991
+Enter death year
+1999
+Enter birth year
+1901
+Enter death year
+1999
+Enter birth year
+1901
+Enter death year
+1977
+Enter birth year
+1902
+Enter death year
+1966
+Enter birth year
+1903
+Enter death year
+1976
+Enter birth year
+0
+Enter death year
+0
+Birth year OR Death year is invalid !! Can't add any more objects
+Year with max people alive is : 1903
+
+******************************************************************
+Case 3:
+******************************************************************
+Enter 0 to exit
+Enter birth year
+1911
+Enter death year
+1901
+Birth year OR Death year is invalid !! Can't add any more objects
+Year with max people alive is : 0
+
+******************************************************************
+Case 4:
+******************************************************************
+Enter 0 to exit
+Enter birth year
+1901
+Enter death year
+1999
+Enter birth year
+1903
+Enter death year
+1903
+Enter birth year
+1922
+Enter death year
+1922
+Enter birth year
+0
+Enter death year
+0
+Birth year OR Death year is invalid !! Can't add any more objects
+Year with max people alive is : 1901
+******************************************************************
