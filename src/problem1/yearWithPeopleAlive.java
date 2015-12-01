@@ -1,6 +1,6 @@
 /*
 
- * Author: Duvvuri *
+* Author: Duvvuri *
 
 *Problem 1:
 Given a list of people with their birth and end years (all between 1900 and 2000),
@@ -61,7 +61,7 @@ public class yearWithPeopleAlive {
 				exit = false;
 			}
 			else{
-				//Else add the person object to the arraylist that we created.
+				//Else add the person object with birth and death years to the arraylist that we created.
 				persons.add(new person(birthyear, deathyear));
 			}
 		}
